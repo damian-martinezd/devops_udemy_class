@@ -64,3 +64,6 @@ git flow init
 git flow feature start cd32658
 # Eliminar la caracteristica
 git flow feature finish cd32658 
+
+# Damys Text to check repos
+;)
