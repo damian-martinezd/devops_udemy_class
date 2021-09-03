@@ -38,6 +38,9 @@ git add .
 # Comprobar la rama
 git branch 
 
+# Remove branch local
+git branch -d Nombre del branch
+
 # Añadir el reposiotio remoto al local
 
 git remote add origin https://github.com/sotobotero/devops_udemy.git
